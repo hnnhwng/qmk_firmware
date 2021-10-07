@@ -90,3 +90,5 @@ user_song_list.h
 # Only my layout
 /keyboards/*
 !/keyboards/crkbd
+/keyboards/crkbd/keymaps/*
+/keyboards/crkbd/keymaps/hnnhwng
