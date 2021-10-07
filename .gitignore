@@ -91,4 +91,4 @@ user_song_list.h
 /keyboards/*
 !/keyboards/crkbd
 /keyboards/crkbd/keymaps/*
-/keyboards/crkbd/keymaps/hnnhwng
+!/keyboards/crkbd/keymaps/hnnhwng
